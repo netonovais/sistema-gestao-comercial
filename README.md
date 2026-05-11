@@ -1,6 +1,6 @@
 # sistema-gestao-comercial
 
-Sistema desenvolvido como projeto acadêmico para a disciplina de [...].
+Sistema desenvolvido como projeto acadêmico para a disciplina de Desenvolvimento de sistemas.
 
 ## Tecnologias
 - Java 21
