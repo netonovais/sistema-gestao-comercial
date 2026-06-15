@@ -35,7 +35,7 @@ public class SecurityConfig {
             .authorizeHttpRequests(auth -> auth
                 // Rotas públicas
                 .requestMatchers("/auth/**").permitAll()
-                .requestMatchers("/swagger-ui/**", "/v3/api-docs/**").permitAll()
+                .requestMatchers("/swagger-ui.html", "/swagger-ui/**", "/v3/api-docs/**", "/v3/api-docs.yaml").permitAll()
                 // Apenas ADMIN pode deletar
                 .requestMatchers(HttpMethod.DELETE, "/clientes/**").hasRole("ADMIN")
                 .requestMatchers(HttpMethod.DELETE, "/produtos/**").hasRole("ADMIN")

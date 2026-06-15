@@ -1,0 +1,5 @@
+br\com\sgc\domain\model\Venda$VendaBuilder.class
+br\com\sgc\domain\model\Usuario$UsuarioBuilder.class
+br\com\sgc\domain\model\ItemVenda$ItemVendaBuilder.class
+br\com\sgc\domain\model\Cliente$ClienteBuilder.class
+br\com\sgc\domain\model\Produto$ProdutoBuilder.class
