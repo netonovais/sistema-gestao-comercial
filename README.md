@@ -215,7 +215,8 @@ desktop/src/main/java/br/com/sgc/desktop/
 
 ## Equipe
 
-[Adicionar nomes dos integrantes do grupo]
+José Neto
+Matheus Covre
 
 ## Repositório
 
